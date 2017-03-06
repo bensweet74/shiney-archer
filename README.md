@@ -1,2 +1,3 @@
 # shiney-archer
 test
+fast
